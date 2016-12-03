@@ -1,3 +1,4 @@
+library(grDevices)
 library(jsonlite)
 library(curl)
 library(tm)

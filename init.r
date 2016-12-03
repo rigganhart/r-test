@@ -1,3 +1,4 @@
+install.packages("grDevices")
 install.packages("wordcloud")
 install.packages("SnowballC")
 install.packages("tm")
